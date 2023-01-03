@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**alfej7786/alfej7786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+An International student pursuing an Ontario College Diploma in Computer Programming in Seneca College, Toronto
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on Angela Yu's Complete 2022 Web Development Bootcamp
+- 🌱 I’m currently learning React, DSA, OOP
+- 💬 Ask me about any Tech related stuff
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🥅 2023 Goals: I'm looking to build some projects, develop my portfolio and better job
+
+Connect with me
+[LinkedIn](https://www.linkedin.com/in/alfej-savaya-428a09227/)
+[Instagram](https://www.instagram.com/__alfej__/)
+[Twitter]([@__Alfej__](https://twitter.com/)
+[Facebook](https://www.facebook.com/AlfejSavaya)
