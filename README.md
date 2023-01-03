@@ -9,8 +9,8 @@ An International student pursuing an Ontario College Diploma in Computer Program
 - 📫 How to reach me: ...
 - 🥅 2023 Goals: I'm looking to build some projects, develop my portfolio and better job
 
-Connect with me
-[LinkedIn](https://www.linkedin.com/in/alfej-savaya-428a09227/)
-[Instagram](https://www.instagram.com/__alfej__/)
-[Twitter]([@__Alfej__](https://twitter.com/)
+Connect with me <br>
+[LinkedIn](https://www.linkedin.com/in/alfej-savaya-428a09227/) <br>
+[Instagram](https://www.instagram.com/__alfej__/) <br>
+[Twitter](https://twitter.com/__Alfej__) <br>
 [Facebook](https://www.facebook.com/AlfejSavaya)
