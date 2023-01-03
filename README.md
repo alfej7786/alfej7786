@@ -1,6 +1,6 @@
 ### Hi there 👋, Alfej here!
+<hr>
 
-<hr> <br>
 ### An International student pursuing an Ontario College Diploma in Computer Programming in Seneca College, Toronto
 
 - 🔭 I’m currently working on Angela Yu's Complete 2022 Web Development Bootcamp
@@ -8,8 +8,8 @@
 - 💬 Ask me about any Tech related stuff
 - 📫 How to reach me: ...
 - 🥅 2023 Goals: I'm looking to build some projects, develop my portfolio and better job
+<hr>
 
-<hr> <br>
 ### Connect with me
 
 - [LinkedIn](https://www.linkedin.com/in/alfej-savaya-428a09227/) <br>
