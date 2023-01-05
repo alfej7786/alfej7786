@@ -1,9 +1,10 @@
 ### Hi there 👋, Alfej here!
 <hr>
 
-### An International student pursuing an Ontario College Diploma in Computer Programming in Seneca College, Toronto
+### An International student pursuing an Ontario College Diploma in Computer Programming from Seneca College, Toronto
 
-- 🔭 I’m currently working on Angela Yu's Complete 2022 Web Development Bootcamp
+- 🔭 I’m currently working on Angela Yu's Complete 2023 Web Development Bootcamp
+- 🔭 I’m currently working on Angela Yu's 100 Days of Code: The Complete Python Pro Bootcamp for 2023
 - 🌱 I’m currently learning React, DSA, OOP
 - 💬 Ask me about any Tech related stuff
 - 📫 How to reach me: ...
