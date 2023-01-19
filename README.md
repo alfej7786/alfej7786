@@ -4,6 +4,7 @@
 ### An International student pursuing an Ontario College Diploma in Computer Programming from Seneca College, Toronto
 
 - 🔭 I’m currently working on Angela Yu's Complete 2023 Web Development Bootcamp
+- 🔭 I’m currently working on Elshad Karimov's Complete Python Bootcamp 2023
 - 🔭 I’m currently working on Angela Yu's 100 Days of Code: The Complete Python Pro Bootcamp for 2023
 - 🌱 I’m currently learning React, DSA, OOP
 - 💬 Ask me about any Tech related stuff
