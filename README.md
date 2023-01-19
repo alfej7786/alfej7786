@@ -7,8 +7,6 @@
 - 🔭 I’m currently working on Elshad Karimov's Complete Python Bootcamp 2023
 - 🔭 I’m currently working on Angela Yu's 100 Days of Code: The Complete Python Pro Bootcamp for 2023
 - 🌱 I’m currently learning React, DSA, OOP
-- 💬 Ask me about any Tech related stuff
-- 📫 How to reach me: ...
 - 🥅 2023 Goals: I'm looking to build some projects, develop my portfolio and better job
 <hr>
 
