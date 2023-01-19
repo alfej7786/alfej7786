@@ -12,6 +12,8 @@
 - 🥅 2023 Goals: I'm looking to build some projects, develop my portfolio and better job
 <hr>
 
+C++
+
 ### Connect with me
 
 - [LinkedIn](https://www.linkedin.com/in/alfej-savaya-428a09227/) <br>
