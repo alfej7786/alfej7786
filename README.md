@@ -1,11 +1,10 @@
 ### Hi there 👋, Alfej here!
 <hr>
 
-### An International student pursuing Computer Programming from Seneca College, Toronto
+### Recent Computer Programming Graduate Student from Seneca College, Toronto
 
 - 🔭 I’m currently working on Angela Yu's Complete 2023 Web Development Bootcamp
-- 🔭 I’m currently working on Elshad Karimov's Complete Python Bootcamp 2023
-- 🔭 I’m currently working on Angela Yu's 100 Days of Code: The Complete Python Pro Bootcamp for 2023
+- 🔭 Creating a responsive Personal Portfolio website
 - 🌱 I’m currently learning React, DSA, OOP
 - 🥅 2023 Goals: I'm looking to build some projects, develop my portfolio and better job
 <hr>
