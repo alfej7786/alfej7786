@@ -3,6 +3,7 @@
 
 ### Recent Computer Programming Graduate Student from Seneca College, Toronto
 
+- ✌️ Working as Web Designer st Stealth Monitoring
 - 🔭 I’m currently working on Angela Yu's Complete 2023 Web Development Bootcamp
 - 🔭 Creating a responsive Personal Portfolio website
 - 🌱 I’m currently learning React, DSA, OOP
