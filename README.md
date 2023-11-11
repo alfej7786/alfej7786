@@ -3,9 +3,10 @@
 
 ### Recent Computer Programming Graduate Student from Seneca College, Toronto
 
+- 🥅 Expertise in Java Programming
 - ✌️ Working as Web Designer st Stealth Monitoring
-- 🔭 I’m currently working on Angela Yu's Complete 2023 Web Development Bootcamp
-- 🔭 Creating a responsive Personal Portfolio website
+- 🔭 Completed Angela Yu's Complete 2023 Web Development Bootcamp
+- 🔭 Created a responsive Personal Portfolio website
 - 🌱 I’m currently learning React, DSA, OOP
 - 🥅 2023 Goals: I'm looking to build some projects, develop my portfolio and better job
 <hr>
